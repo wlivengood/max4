@@ -1,6 +1,6 @@
 # Max4
 ### When [Max6](https://github.com/petersn/six-char-max) is two too many
-Usage: 
+Usage (requires python 3): 
 ```
 $ python3 max4.py input.py output.py
 ```
